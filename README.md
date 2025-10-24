@@ -3,18 +3,18 @@
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=0F0FFF&center=true&vCenter=true&width=600&lines=Bem-vindo+ao+meu+GitHub!;Entusiasta+de+Frontend+e+Backend;Código+eficiente+é+minha+regra.;Foco,+estratégia+e+execução+perfeita.)](https://git.io/typing-svg)
 ---
 
-## 🚀 Sobre mim  
-- 🌱 Aprendendo: Engenharia de Software, Análise de Requisitos e Física Aplicada  
-- 🔭 Trabalhando em: Projetos com Java, Python, HTML, CSS e JavaScript  
-- 👯 Colaborando em: Desenvolvimento Frontend e Backend  
-- 🎯 Focado em: Criar soluções eficientes
-- 🎨 Paixão por: Códigos bem escritos e interfaces elegantes  
+##  Sobre mim  
+-  Aprendendo: Engenharia de Software, Análise de Requisitos e Física Aplicada  
+-  Trabalhando em: Projetos com Java, Python, HTML, CSS e JavaScript  
+-  Colaborando em: Desenvolvimento Frontend e Backend  
+-  Focado em: Criar soluções eficientes
+-  Paixão por: Códigos bem escritos e interfaces elegantes  
 
-> 💡 _"Você sabe que é programador quando sonha com bugs que não existem."_
+>  _"Você sabe que é programador quando sonha com bugs que não existem."_
 
 ---
 
-## 🛠️ Tecnologias e Ferramentas  
+##  Tecnologias e Ferramentas  
 ### Linguagens de Programação  
 <div align="center">
   <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white" />
@@ -44,7 +44,7 @@
 
 ---
 
-## 📊 Minhas Estatísticas no GitHub  
+##  Minhas Estatísticas no GitHub  
 <div align="center">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=PetrickBrayan&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=PetrickBrayan&layout=compact&langs_count=8&theme=tokyonight"/>
@@ -52,23 +52,23 @@
 
 ---
 
-## 📋 Como me encontrar  
+##  Como me encontrar  
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/seu-perfil)  
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:seu-email@gmail.com)
 
 ---
 
-## 😄 Um toque de humor  
+##  Um toque de humor  
 - "Programar é como fazer café:** você começa com boas intenções, mas no fim esquece de colocar o açúcar e acaba tomando amargo." ☕  
 - "Depurar é como ser detetive:** você rastreia pistas deixadas por um criminoso... que é você mesmo!" 🕵️  
 - "Porque os programadores preferem o escuro?** – Porque no escuro não há bugs... só sombras deles." 👾  
 
 ---
 
-## 💡 Citação favorita  
+##  Citação favorita  
 _"A simplicidade é a sofisticação máxima."_ – Leonardo da Vinci  
 
 ---
 
-## 👨‍💻 Obrigado por visitar meu perfil!  
+##  Obrigado por visitar meu perfil!  
 Sinta-se à vontade para explorar meus repositórios e trocar ideias. 🚀  
