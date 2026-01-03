@@ -1,4 +1,4 @@
-# 👋 Olá! Eu sou Petrick Brayan!  
+Petrick Brayan!  
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=0F0FFF&center=true&vCenter=true&width=600&lines=Bem-vindo+ao+meu+GitHub!;Entusiasta+de+Frontend+e+Backend;Código+eficiente+é+minha+regra.;Foco,+estratégia+e+execução+perfeita.)](https://git.io/typing-svg)
 ---
